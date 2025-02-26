@@ -1,1 +1,1 @@
-# clickjacker
+A Clickjacking Identifier is a security tool designed to detect clickjacking vulnerabilities in web applications by analyzing hidden iframes and UI overlays. It helps identify deceptive elements that trick users into clicking unintended buttons or links. The tool aids in securing web applications by preventing unauthorized actions like data leaks or malicious transactions.
